@@ -1,0 +1,19 @@
+# Secrets / local configuration
+config.local.php
+*.local.php
+*.secret
+.env
+.env.*
+
+# Local/runtime files
+.DS_Store
+Thumbs.db
+*.log
+
+# IDEs
+.vscode/
+.idea/
+
+# PHP tooling
+vendor/
+composer.lock
